@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e0e3758.css",
+    "main.js": "/static/js/main.d9913cb3.js",
+    "static/media/necklacepair.jpg": "/static/media/necklacepair.f8dc8e33d8ac978bc0e7.jpg",
+    "static/media/starearrings.jpg": "/static/media/starearrings.a7b8afa8257d9b48c7f8.jpg",
+    "static/media/campingmug.jpg": "/static/media/campingmug.4c820dfebddcca347919.jpg",
+    "static/media/candybox.jpg": "/static/media/candybox.50138986a34a907daa39.jpg",
+    "static/media/goldnecklace.jpg": "/static/media/goldnecklace.4996ed2529ed0b1f1479.jpg",
+    "static/media/bathbombset.jpg": "/static/media/bathbombset.3be005476c1bb23daa8f.jpg",
+    "static/media/ceramiccandle.jpg": "/static/media/ceramiccandle.8a3d2ee8b57f4c04c07e.jpg",
+    "static/media/lumacandle.jpg": "/static/media/lumacandle.166d3b79247c5733d934.jpg",
+    "static/media/ambrecandle.jpg": "/static/media/ambrecandle.805706c2efac3f56734e.jpg",
+    "static/media/lavsoap.jpg": "/static/media/lavsoap.94f8fa20f1a59eb9c5fb.jpg",
+    "static/media/minichocolateset.jpg": "/static/media/minichocolateset.7491412d5dcbbd9cc722.jpg",
+    "static/media/marblesoap.jpg": "/static/media/marblesoap.4613449ae104effd45d9.jpg",
+    "static/media/coffeeteamug.jpg": "/static/media/coffeeteamug.197cbf21484c197de616.jpg",
+    "static/media/bathsalts.jpg": "/static/media/bathsalts.10e05de4ebd28620b5f3.jpg",
+    "static/media/bathbombbox.jpg": "/static/media/bathbombbox.23c080cb0756079a6f71.jpg",
+    "static/media/whitesoap.jpg": "/static/media/whitesoap.56f2ae5234c5c2753d2e.jpg",
+    "static/media/heartmug.jpg": "/static/media/heartmug.211532fcf56a89409aa2.jpg",
+    "static/media/greenearrings.jpg": "/static/media/greenearrings.ba13eb187cae9c1c1dcd.jpg",
+    "static/media/cactusvase.jpg": "/static/media/cactusvase.b772b881048a342e6db7.jpg",
+    "static/media/gift.jpg": "/static/media/gift.5477119b65cd22645e24.jpg",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/blueearrings.jpg": "/static/media/blueearrings.b8f468a66aae157e5e94.jpg",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "index.html": "/index.html",
+    "main.2e0e3758.css.map": "/static/css/main.2e0e3758.css.map",
+    "main.d9913cb3.js.map": "/static/js/main.d9913cb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e0e3758.css",
+    "static/js/main.d9913cb3.js"
+  ]
+}

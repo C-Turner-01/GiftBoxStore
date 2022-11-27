@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding:0;
+}
+.App {
+  text-align: center;
+}
+
+#site-logo {
+  font-family: 'Lobster Two', cursive;
+  font-size: xx-large;
+}
+
+.home-link, .shop-item, .Delivery, .Order {
+  width: 100vw;
+}
+
+.shop-item img {
+  width: 100%;
+}
+
+footer {
+  font-size: 0.8rem;
+}
+
+@media (min-width: 600px) {
+  .home-link, .shop-item, .Order {
+    width: 25vw;
+  }
+
+  .Order {
+    width: 30vw;
+  }
+  .shop-item {
+    width: auto;
+  }
+  .shop-item img {
+    max-height: 13rem;
+    width: auto;
+  }
+  .Delivery {
+    width: 60vw;
+  }
+}
